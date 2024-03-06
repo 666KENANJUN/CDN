@@ -3,10 +3,10 @@
 	"LatestGameVersion":"0.1.0",
 	"InternalGameVersion":1,
 	"InternalResourceVersion":1,
-	"UpdatePrefixUri":"https://cdn.jsdelivr.net/gh/666KENANJUN/CDN/",
-	"VersionListLength":7161,
-	"VersionListHashCode":-1353433578,
-	"VersionListCompressedLength":2651,
-	"VersionListCompressedHashCode":-658361356,
+	"UpdatePrefixUri":"https://cdn.jsdelivr.net/gh/666KENANJUN/CDN@3.0/Windows64",
+	"VersionListLength":6225,
+	"VersionListHashCode":469827665,
+	"VersionListCompressedLength":2354,
+	"VersionListCompressedHashCode":-808931144,
 	"END_OF_JSON": ""
 }
