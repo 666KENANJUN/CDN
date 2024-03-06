@@ -1,0 +1,12 @@
+{
+	"ForceUpdateGame":false,
+	"LatestGameVersion":"0.1.0",
+	"InternalGameVersion":1,
+	"InternalResourceVersion":1,
+	"UpdatePrefixUri":"https://cdn.jsdelivr.net/gh/666KENANJUN/CDN/",
+	"VersionListLength":7161,
+	"VersionListHashCode":-1353433578,
+	"VersionListCompressedLength":2651,
+	"VersionListCompressedHashCode":-658361356,
+	"END_OF_JSON": ""
+}
